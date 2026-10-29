@@ -55,6 +55,8 @@ An academic project exploring whether generated dialogue is supported by its sou
 
 **M.S. in Information Systems**  
 University of Maryland, Baltimore County (UMBC) · May 2026
+**B.Tech in Computer Science and Engineering**  
+Raghu Engineering College · May 2024
 
 ## Certifications
 
