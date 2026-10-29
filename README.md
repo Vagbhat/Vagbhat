@@ -58,9 +58,10 @@ University of Maryland, Baltimore County (UMBC) · May 2026
 
 ## Certifications
 
-- AWS Certified Machine Learning Engineer - Associate
-- AWS Academy Machine Learning Foundations
-- AWS Academy Cloud Architecting
+- [AWS Certified Machine Learning Engineer - Associate](https://www.credly.com/badges/b40f74d5-c9b2-41b4-83ec-c827ef7381df/linked_in_profile)
+- [AWS Academy Machine Learning Foundations](https://www.credly.com/badges/2e0b0d03-f323-489e-b4f8-984c3bacc992/linked_in_profile)
+- [AWS Academy Cloud Architecting](https://www.credly.com/badges/adea19d5-1680-4b03-b83a-5cf0dbda40e8/linked_in_profile)
+
 
 ## Connect
 
